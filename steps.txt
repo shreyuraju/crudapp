@@ -45,7 +45,13 @@ Listening at 5000`
 -> login
 -> create user
 -> create network acces IP
--> database clustter
+-> create database clustter
+-> click on connect
+-> install VS code extension of MongoDB `MongoDB for VS Code`
+-> `connect to VS code` -> copy `mongodb+srv://crudapp:crudapp@crudapp.bhs6aze.mongodb.net/ `
+
+-> run in server shell cmd `npm run dev`
+
 
 
 FRONTEND
